@@ -1,9 +1,8 @@
 
 function App() {
   return (
-    <div className="bg-red-100">
+    <div className="bg-goku bg-sanFrancisco max-h-max">
       <h1>holaaa</h1>
-      ç
     </div>
   );
 }
